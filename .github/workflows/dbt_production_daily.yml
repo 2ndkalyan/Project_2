@@ -13,7 +13,7 @@ jobs:
       SNOWFLAKE_PASSWORD: Sandhyachitti123
       SNOWFLAKE_ROLE: ACCOUNTADMIN
       SNOWFLAKE_DATABASE: ANALYTICS
-      SNOWFLAKE_WAREHOUSE: TRANSFORMING
+      SNOWFLAKE_WAREHOUSE: transforming
 
     steps:
     - name: Checkout repo
